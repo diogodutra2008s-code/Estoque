@@ -1,0 +1,12 @@
+{
+  "name": "estoque",
+  "version": "1.0.0",
+  "description": "Sistema de controle de estoque desenvolvido em JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["estoque", "javascript", "nodejs", "cli"],
+  "author": "Diogo Dutra",
+  "license": "MIT"
+}
